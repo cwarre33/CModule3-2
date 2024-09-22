@@ -6,6 +6,22 @@
 ### Date: September 16, 2024  
 
 ---
+## About
+
+This collection of programming exercises focuses on fundamental concepts in C, including:
+
+- **Function Definition and Usage**: Implementing functions to perform specific tasks, such as calculating the sum and product of integers and the volume of a cube.
+
+- **Array Manipulation**: Working with one-dimensional arrays, initializing elements, accessing values, and performing operations like summing elements.
+
+- **Input Handling**: Reading user input using `scanf` and processing that input to compute results, enhancing interaction with the user.
+
+- **Control Structures**: Utilizing loops for iterating over arrays and displaying results, reinforcing understanding of control flow in programming.
+
+- **String Processing**: Managing strings by declaring character arrays and displaying individual characters, emphasizing basic string manipulation techniques.
+
+Through these exercises, I have strengthened my problem-solving skills and gained practical experience in applying C programming concepts to real-world scenarios.
+
 
 ## Task 1: Function g()
 
